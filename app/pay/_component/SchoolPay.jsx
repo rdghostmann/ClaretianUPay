@@ -84,7 +84,8 @@ const SchoolPay = () => {
       {/* Right Form Section */}
       <div className="w-full lg:w-1/2 flex items-center justify-center p-6 bg-gray-100">
         <div className="max-w-md w-full bg-white p-4 border border-gray-300 rounded-lg shadow-lg">
-          <h1 className="text-xl font-bold text-center mb-4">School Fees Payment</h1>
+          <h1 className="max-w-xs rounded-2xl mx-auto border border-slate-500 bg-slate-100 text-sm text-center mb-4">seamless payment experience</h1>
+          <h3 className="text-xl font-bold text-center mb-4">ClaretianUPay </h3>
           <form className="space-y-4">
             <div>
               <label htmlFor="selectedFee" className="block font-medium">
